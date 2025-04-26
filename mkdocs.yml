@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: MicroPython Getting Started Guide
+site_url: https://micropython.org/getting_started
+theme:
+  name: material
+
+nav:
+- Home: index.md
+- Tools: tools.md
+- Selecting Hardware: selecting_hardware.md

@@ -1,7 +1,7 @@
 [project]
 name = "micropython-getting-started"
 version = "0.1.0"
-description = "Add your description here"
+description = "A getting started guide for MicroPython"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
